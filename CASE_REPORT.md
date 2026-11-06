@@ -217,18 +217,20 @@ Transcripts only record spoken words. In reality:
 ---
 
 #### 🎬 Ad Brief 3: Science — "The Horse vs. The Tractor" (Bucket: Great Teaching)
-- **Session:** `Science_2125687282` | **Timestamps:** `00:03:49 → 00:04:35` (Continuation: `00:05:38 → 00:06:12`)
+- **Session:** `Science_2125687282`
+- **Primary Ad Cut (Target 15–45s):** `00:05:20 → 00:06:05` (**45 seconds**)
+- **Full Source Window (Editor Ingest):** `00:04:58 → 00:06:12` (74 seconds)
+- **WhatsApp Status Cut:** `00:05:40 → 00:05:55` (15 seconds)
 - **Score:** **10/10** (Emotional: 3, Clarity: 2, Relatability: 2, Visual: 2, Safety: 1)
 - **3-Sec Hook:**
-  - *Audio:* Teacher: *"All natural living things have something known as self-propelled energy."*
+  - *Audio:* Teacher: *"Look at the tractor! From where does the tractor get energy?"* → Student: *"The engine!"*
   - *Visual:* Split animation of galloping horse vs. key turning in a tractor ignition.
   - *Text Overlay:* *"Grade 2 Science: Why can't a tractor move on its own? 🐴🚜"*
-- **Verbatim Dialogue:**
-  > **Teacher (00:03:49):** "All natural living things, they have something known as self-propelled energy. Animals eat food, and they gain energy from inside... That is internal, self-propelled energy."
-  > **Teacher (00:04:58):** "On the other hand, look at the tractor! From where does the tractor get the energy?"
+- **Verbatim Dialogue (45s Primary Cut):**
+  > **Teacher (00:05:20):** "From where does this tractor get the energy?"
   > **Student (00:05:24):** "The engine!"
-  > **Teacher (00:05:25):** "From the engine! It's external! It's forced energy pushed from outside."
-  > **Teacher (00:05:40):** "The horse can decide when to run and where to go on its own. The tractor? It cannot move until someone forces the key."
+  > **Teacher (00:05:25):** "From the engine! It's external! It's forced energy pushed from outside. But all living things have something known as self-propelled energy."
+  > **Teacher (00:05:40):** "For example, the horse can decide when to run and where to go on its own! The tractor does not have that. The energy is forced from outside."
 - **Editor Instructions:** 9:16 layout. Top 40% educator webcam; bottom 60% dynamic graphic. Emphasize words `SELF-PROPELLED` vs `FORCED ENERGY` in bold typography.
 - **Platforms:** Instagram Reels (40s), YouTube Shorts (45s), WhatsApp Status (15s cut `00:05:40 → 00:05:55`).
 

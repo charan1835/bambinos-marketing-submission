@@ -5,10 +5,11 @@
 
 ---
 
-### ⏱️ Exact Clip Window
-`00:04:58 → 00:06:12` (74 seconds)  
-*Tight 45s Cut for Instagram Reels / YouTube Shorts:* `00:05:20 → 00:06:05`  
-*15s WhatsApp Status Cut:* `00:05:40 → 00:05:55`
+### ⏱️ Clip Windows
+- **🎯 Primary Ad Cut (Target 15–45s Duration):** `00:05:20 → 00:06:05` (**45 seconds**)  
+  *(Starts with student answering "The engine" through the teacher's self-propelled horse analogy)*
+- **📦 Full Source Context Window (Raw Editor Ingest):** `00:04:58 → 00:06:12` (**74 seconds**)
+- **⚡ Rapid WhatsApp Status / Meta Stories Cut:** `00:05:40 → 00:05:55` (**15 seconds**)
 
 ---
 
@@ -19,16 +20,18 @@
 
 ---
 
-### 🎥 Cleaned Transcript Dialogue (Disfluencies Removed for Editor Readability)
-*(All lines below occur strictly within the `00:04:58 → 00:06:12` clip window)*
+### 🎥 Cleaned Transcript Dialogue (Primary Ad Cut: 00:05:20 → 00:06:05)
+*(Audio verbatim with minor speech disfluencies removed for editor clarity)*
 
-> **Teacher (00:04:58):** "Look at the tractor. The tractor also has got energy to do work... From where does this tractor get the energy?"
+> **Teacher (00:05:20):** "From where does this tractor get the energy?"
 > 
-> **Student (00:05:24):** "The engine."
+> **Student (00:05:24):** "The engine!"
 > 
 > **Teacher (00:05:25):** "From the engine! It's external... There is an energy that is pushed from outside. But all living things have something known as self-propelled energy."
 > 
 > **Teacher (00:05:40):** "For example, the horse can decide when to run and where to go on its own! The tractor does not have that. The energy is forced from outside."
+> 
+> **Teacher (00:06:00):** "Living things? Self-propelled. Non-living? Forced energy!"
 
 ---
 
@@ -40,10 +43,10 @@
 
 ---
 
-### 📱 Platform-Specific Cuts
-- **Instagram Reels (45s):** `00:05:20 → 00:06:05` (From student answering "The engine" through the horse analogy).
-- **YouTube Shorts (60s):** Full `00:05:00 → 00:06:00` cut.
-- **WhatsApp Status (15s):** `00:05:40 → 00:05:55` ("The horse can decide when to run and where to go on its own...").
+### 📱 Platform-Specific Distribution
+- **Primary Hero Creative (Meta Reels & YouTube Shorts):** Use the 45s Primary Cut (`00:05:20 → 00:06:05`).
+- **Extended YouTube Short:** Full 60s cut (`00:05:10 → 00:06:10`).
+- **WhatsApp Status (15s):** Rapid cut `00:05:40 → 00:05:55` ("The horse can decide when to run and where to go on its own...").
 
 ---
 
