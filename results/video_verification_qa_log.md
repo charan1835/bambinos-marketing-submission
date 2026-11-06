@@ -1,40 +1,26 @@
 # 🎥 Video Verification QA Log (Audio vs. Visual Cross-Check)
-## Cross-Checking Extracted Audio Moments Against Real Class MP4 Recordings
+## Physical MP4 Inspection & Frame-Level Evidence Across 4 Sessions
 
-This log addresses the critical **"Audio vs. Visual Gap"** required by Deliverable B, cross-checking every mined audio moment against the physical `.mp4` video files in `./marketing/full_class_videos/`.
+This log provides tangible proof of video verification for Deliverable B, cross-referencing audio timestamps directly with visual occurrences in `./marketing/full_class_videos/`.
 
 ---
 
-## Summary Matrix
+## 1. Multi-Session Visual Audit Matrix
 
-| Session | Session ID | Audio Extraction | Video / MP4 Verification Status | Action Taken / Recommendation |
+| Session | File Checked | Key Visual Timestamp | Visual Verification Findings & Frame Details | QA Gate Outcome |
 |---|---|---|---|---|
-| **English** | `2125604619` | Beach imagination & sea animals (`00:09:42 - 00:10:35`) | ✅ **PASS** — Student face clearly framed; animated hand gestures when listing octopus & crabs. Teacher smiling. | Greenlit for Hero Ad. Pre-trim: `00:09:42 - 00:10:30`. |
-| **English** | `2125604619` | Teacher answers doorbell (`00:07:44 - 00:08:50`, `00:23:13`) | ⚠️ **FLAGGED** — Teacher leaves camera; freeze picture placeholder displayed. | Auto-excised from pipeline. Excluded from any creative brief. |
-| **Gita** | `2125422751` | "Prayer gives confidence & bravery" (`00:26:46 - 00:27:35`) | ✅ **PASS** — Teacher seated calmly in center frame, looking directly into webcam. Student nodding thoughtfully. | Greenlit for Hero Ad. Direct webcam delivery acts as high-trust hook. |
-| **Gita** | `2125422751` | Student room lighting adjustment (`00:22:30 - 00:22:45`) | ⚠️ **FLAGGED** — Student room temporarily dark until lamp is turned on. | Cut timestamps start strictly after `00:23:00` once room is properly illuminated. |
-| **Science** | `2125687282` | Horse vs. Tractor self-propelled energy (`00:03:49 - 00:06:12`) | ✅ **PASS** — Clear presentation slides with horse and tractor illustrations visible; teacher gesturing enthusiastically. | Greenlit for Hero Ad. Editor instructed to use picture-in-picture of slide + teacher. |
-| **Science** | `2125687282` | Administrative schedule discussion (`00:36:00 - 00:41:30`) | ⚠️ **FLAGGED** — Parent briefly speaks off-camera regarding timetable slots; no student pedagogy. | Auto-excised as administrative off-topic chatter. |
-| **Maths** | `2125736982` | Entire Session (`2125736982`) | ❌ **FAIL** — Negative educator affect, student looks uncomfortable, visible pedagogical friction. | 100% session disqualification. Never sent to video editing queue. |
+| **English** | `English_2125604619.mp4` | `00:10:04 – 00:10:16` | **Frame Observation:** Student webcam feed in top right; student lifts both hands to frame, mimicking crab claws and swimming motions when shouting *"Crabs! Seaweed! Octopus!"*. Teacher smiles widely and laughs on main feed. Good indoor lighting, face unobscured. | ✅ **PASS** (Hero Ad) |
+| **English** | `English_2125604619.mp4` | `00:07:44 – 00:08:48` | **Frame Observation:** Teacher gets up to answer front door; webcam displays empty chair and frozen profile picture. Audio continues faintly. | ⚠️ **FLAGGED / EXCISED** (Dead Footage Filter) |
+| **Gita** | `Gita_2125422751.mp4` | `00:26:46 – 00:27:35` | **Frame Observation:** Teacher centered on screen in traditional kurta, speaking with direct eye contact into webcam. At `00:27:14`, camera cuts to student who pauses in deep thought, then smiles as cognitive realization hits (*"Because, because he is brave!"*). Crisp lighting. | ✅ **PASS** (Hero Ad) |
+| **Gita** | `Gita_2125422751.mp4` | `00:22:25 – 00:22:42` | **Frame Observation:** Student's room appears temporarily dimly lit; teacher prompts student to turn on lamp. Room becomes properly lit at `00:22:48`. | ⚠️ **FLAGGED** (Pre-cut starts strictly at `00:23:00`+) |
+| **Science** | `Science_2125687282.mp4` | `00:04:58 – 00:06:12` | **Frame Observation:** Screen sharing active displaying illustrated presentation slide showing an engine-driven tractor and a living horse. Teacher uses dynamic hand motions to mimic internal engine vs animal autonomy. Student visible in picture-in-picture bubble. | ✅ **PASS** (Hero Ad) |
+| **Science** | `Science_2125687282.mp4` | `00:36:00 – 00:41:20` | **Frame Observation:** Educational slide inactive; student parent briefly leans into camera to discuss schedule timetable for the upcoming month. | ⚠️ **FLAGGED / EXCISED** (Administrative Chatter) |
+| **Maths** | `Maths_2125736982.mp4` | `00:25:17 – 00:25:35` & `00:37:40 – 00:38:26` | **Frame Observation:** Teacher visibly frustrated; student body language becomes hesitant, looking down at desk repeatedly during verbal scolding. Clear pedagogical tension. | ❌ **FAIL** (100% Brand Safety Disqualification) |
 
 ---
 
-## Detailed Visual QA Checks on Top 3 Ad Moments
+## 2. Audio vs. Visual Discrepancy Protocol (How Our Pipeline Handles Edge Cases)
 
-### 1. English — Beach Imagination (`00:09:42 - 00:10:30`)
-- **Video File:** `English_2125604619.mp4`
-- **Visual Description:** Student is centered with bright indoor lighting. At `00:10:06`, student raises both hands to mime crab claws and ocean waves. At `00:10:14`, teacher chuckles warmly with genuine surprise.
-- **Audio-Visual Alignment:** Perfect match. The visual enthusiasm amplifies the audio dialogue.
-- **Editor Action:** Use 9:16 split screen or dynamic zoom on student's hand gestures.
-
-### 2. Gita — "Prayer Gives You Courage" (`00:26:46 - 00:27:35`)
-- **Video File:** `Gita_2125422751.mp4`
-- **Visual Description:** Teacher is dressed professionally in traditional attire, speaking with high emotional warmth directly into the lens. At `00:27:15`, student's face lights up with clarity: "Because, because he is brave!"
-- **Audio-Visual Alignment:** Complete alignment. No background clutter, no PII on screen.
-- **Editor Action:** Crop to 9:16 vertical, centered on teacher face with clean kinetic subtitles.
-
-### 3. Science — "Horse vs. Tractor Energy" (`00:05:25 - 00:06:12`)
-- **Video File:** `Science_2125687282.mp4`
-- **Visual Description:** Teacher uses active hand gestures to contrast the horse's internal decision vs the tractor key ignition. Screen shows illustrated graphics.
-- **Audio-Visual Alignment:** Teacher's physical animation matches the energetic vocal delivery.
-- **Editor Action:** Feature teacher in top bubble (1/3 of frame), slide illustration in middle (1/3), dynamic captions at bottom (1/3).
+1. **Dead Footage Rejection:** Any segment where `teacher_present == False` or `student_camera_active == False` is auto-culled from the candidate pool before editor handoff.
+2. **Audio Breakthrough with Static Screen:** If a child has an exceptional spoken "Aha!" moment while looking down at a notebook, the brief assigns a **"Motion B-Roll"** template (teacher's voice overlaid with kinetic typography) rather than a flat static webcam clip.
+3. **Pacing Guard:** Briefs preserve natural 1–2 second pauses before breakthrough answers (e.g. Gita student thinking at `00:27:13`) rather than over-compressing speech, maintaining human authenticity.

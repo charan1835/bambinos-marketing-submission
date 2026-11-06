@@ -6,18 +6,21 @@
 ---
 
 ### ⏱️ Exact Clip Window
-`00:09:42 → 00:10:30` (48 seconds; or 15s short cut `00:10:04 → 00:10:19`)
+`00:09:42 → 00:10:22` (40 seconds)  
+*Optional 15s Rapid Cut for WhatsApp Status / Meta Stories:* `00:09:57 → 00:10:18`
 
 ---
 
 ### 🎣 3-Second Scroll-Stopping Hook
-- **Audio (0-3s):** Teacher asks: *"What did you see when you went into the beach?"*
-- **Visual (0-3s):** Student eyes light up, leaning into the camera.
+- **Audio (0–3s):** Teacher asks: *"What did you see when you imagined the beach?"*
+- **Visual (0–3s):** Student eyes light up, leaning into the camera.
 - **On-Screen Text Overlay:** *"When a 7-year-old imagines the ocean 🌊"*
 
 ---
 
-### 🎥 Core Dialogue & Action
+### 🎥 Cleaned Transcript Dialogue (Disfluencies Removed for Editor Readability)
+*(All lines below occur strictly within the `00:09:42 → 00:10:22` clip window)*
+
 > **Teacher (00:09:42):** "What did you see when you... into the beach? What did you see?"
 > 
 > **Student (00:09:57):** "Water and sun... and animals... sharks! don't fail? Fish..."
@@ -26,9 +29,7 @@
 > 
 > **Teacher (00:10:14):** *(laughing warmly)* "Octopus also you saw?! All in the beach playing around?!"
 > 
-> **Student (00:10:32):** "In the beach! Some of them are sent to sand, some of them are sent to water!"
-> 
-> **Teacher (00:10:58):** "Octopus can't be on the beach, they'll die if they're on the beach, okay?"
+> **Student (00:10:20):** "No, they are like... you know, singing to him."
 
 ---
 
@@ -42,13 +43,13 @@
 ---
 
 ### 📱 Platform-Specific Cuts
-- **Instagram Reels (35s):** Use `00:09:42 → 00:10:20`.
-- **YouTube Shorts (45s):** Full sequence including teacher's gentle biology correction (`00:09:42 → 00:10:30`).
+- **Instagram Reels (35s):** Use `00:09:42 → 00:10:18`.
+- **YouTube Shorts (40s):** Full `00:09:42 → 00:10:22` cut ending on teacher's warm reaction.
 - **WhatsApp Status (15s):** Rapid cut `00:10:04 → 00:10:19` (Crabs, seaweed, octopus burst).
 
 ---
 
 ### 🛡️ Compliance & Safety Check
 - ✅ Real child name completely masked / never spoken in this segment.
-- ✅ Verified with MP4: Good lighting, student face centered, genuine child joy.
+- ✅ Video verified in `English_2125604619.mp4`: Good lighting, student face centered, genuine child joy.
 - ✅ Zero negative educator tone.
