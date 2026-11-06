@@ -1,0 +1,36 @@
+[Maths Session - Measurement]
+Teacher: Naazish Khanam
+Student: [Student - Masked]
+STATUS: ❌ FULLY EXCLUDED FROM MARKETING ADS (Hard Exclusion Gate)
+
+=== SAFETY & COMPLIANCE AUDIT LOG ===
+The transcript was fully processed through Prompt 01 (PII & Negative Tone Filter).
+Multiple severe pedagogical and tone compliance failures were identified:
+
+1. [00:25:17 - 00:25:31]
+   Teacher: "It's stupid. I explained it taking 5-10 minutes. Then also you, where is your focus?"
+   Violation: Verbal shaming, hostile educator tone.
+
+2. [00:35:01 - 00:35:18]
+   Teacher: "What you do at home I don't understand. Simple, simple, silly, silly things you don't stick."
+   Violation: Demeaning language.
+
+3. [00:37:40 - 00:37:57]
+   Teacher: "Silly simple thing you are not understanding. How many times do I need to say that one segment is one meter... Not at all studying at home."
+   Violation: Impatience, repetitive scolding.
+
+4. [00:38:14 - 00:38:26]
+   Teacher: "This way I will not teach you. This is enough. You are not at all learning at home."
+   Violation: Threatening abandonment of instruction.
+
+5. [00:45:38 - 00:46:04]
+   Teacher: "If you don't study at home now, from the next time you will score full zero."
+   Violation: Demoralizing outcome projection.
+
+6. [00:47:48 - 00:48:13]
+   Teacher: "I don't think that it is of any use. Do you think it is of any use?"
+   Violation: Defeatist and punitive pedagogical tone.
+
+CONCLUSION:
+Under Bambinos.live Brand Safety Policy & Scoring Rubric, this entire session scores 0/1 on Brand Safety (Auto-Disqualification). No marketing creatives or ad briefs are permitted from this session.
+Log preserved for internal Academic Quality Assurance review.

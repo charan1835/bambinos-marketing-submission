@@ -1,10 +1,7 @@
-Session,Moment_ID,Title,Total_Score,Rank,Priority,Primary_Platform,Notes
-English,E1,The Beach Imagination Burst,20,1,HERO AD,All Platforms,Child listing sea creatures with pure excitement — universally relatable. Use for all 3 platforms.
-Gita,G1,He Was Not Scared — He Was Brave,20,1,HERO AD,All Platforms,Child connecting prayer to bravery — emotional depth + cultural resonance. Tie with E1.
-Gita,G3,Prayer Gives You Courage,20,1,HERO AD,All Platforms,Teacher's most quotable line in entire dataset. Perfect caption ad.
-Science,S1,The Horse Decides Where to Run,20,1,HERO AD,Instagram Reels / YouTube Shorts,Best science analogy — self-propelled energy explained brilliantly.
-English,E2,Story Mountain Breakthrough,19,2,SUPPORTING AD,Instagram Reels / YouTube Shorts,Great learning moment but needs context — works better as mid-funnel content.
-English,E3,Teacher Forgives — Not Angry Anymore,19,2,SUPPORTING AD,Instagram Reels / WhatsApp,Warmth and human connection — good for parent trust-building.
-Gita,G2,Shiva Came Out of the Shivling,18,3,SUPPORTING AD,YouTube Shorts / Instagram,Peak mythological storytelling — powerful but niche audience (Gita track parents).
-Science,S2,Touch Me Not Plant Protecting Itself,19,2,SUPPORTING AD,All Platforms,Child wonder at a plant 'feeling' — charming and educational.
-Science,S3,Robot vs Human — Who Can Heal?,19,2,SUPPORTING AD,YouTube Shorts / Instagram,Strong science concept — works best as a longer YouTube Short.
+Rank,Moment_ID,Session,Title,Bucket,Total_Score_10,Category,Platform_Fit,Video_QA_Status
+1,E1,English,The Beach Imagination Burst,Wonder & Delight,10/10,HERO AD,Instagram Reels / Shorts / WhatsApp,PASS
+1,G1,Gita,Prayer Gives You Confidence & Bravery,Great Teaching & Breakthrough,10/10,HERO AD,Instagram Reels / Shorts / WhatsApp,PASS
+1,S1,Science,The Horse vs Tractor - Self-Propelled Energy,Great Teaching,10/10,HERO AD,Instagram Reels / Shorts / WhatsApp,PASS
+2,E2,English,Story Mountain Sequence Click,Breakthrough,9/10,SUPPORTING AD,Instagram Reels / YouTube Shorts,PASS
+2,S2,Science,The Touch-Me-Not Plant Protects Itself,Curiosity Spark & Wonder,9/10,SUPPORTING AD,Instagram Reels / WhatsApp,PASS
+DISQUALIFIED,M1,Maths,Measurement Scolding,Hostile Tone / Frustration,0/10,EXCLUDED,N/A - Zero Tolerance Gate,FAIL
